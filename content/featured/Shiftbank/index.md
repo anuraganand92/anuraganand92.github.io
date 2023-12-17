@@ -1,5 +1,5 @@
 ---
-date: '2023-04'
+date: '1'
 title: 'Shiftbank'
 cover: './shiftbank.png'
 github: 'https://github.com/rkhalliitkgp/bank-dashboard'
@@ -11,4 +11,6 @@ tech:
   - Mantine
 ---
 
-<!-- A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme). -->
+Developed a neobank application, focusing on seamless payment processing and robust data analysis capabilities.
+
+Employed innovative Zero Shot Classification NLP technique to enable efficient transaction categorization based solely on their descriptions, enhancing user insights and financial management.

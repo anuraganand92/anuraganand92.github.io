@@ -125,7 +125,18 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Django', 'Springboot', 'React', 'Next.js', 'Java', 'JavaScript', 'TypeScript', 'Python', 'C/C++', 'Tensorflow'];
+  const skills = [
+    'Django',
+    'Springboot',
+    'React',
+    'Next.js',
+    'AWS',
+    'Java',
+    'JavaScript',
+    'TypeScript',
+    'Python',
+    'C/C++',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,9 +146,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Anurag Anand and I work on software products that help the people.
-              I am en engineering student at{' '} <a href="https://www.iitkgp.ac.in/">IIT Kharagpur</a> 
-              and I am developing healthtech solutions for{' '} <a href="https://www.synthax.ai/">Synthax.ai</a>.
+              Hello! My name is Anurag Anand and I work on software products that help the people. I
+              am en engineering student at <a href="https://www.iitkgp.ac.in/">IIT Kharagpur</a>
+              and I am developing healthtech solutions for{' '}
+              <a href="https://www.synthax.ai/">Synthax.ai</a>.
             </p>
 
             {/* <p>

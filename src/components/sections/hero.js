@@ -65,8 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m an engineering student focusing on developing softwares and working on AI solutions in the same. 
-        I have been working on app development and GenAI research at{' '}
+        I’m an engineering student focusing on developing softwares and working on AI solutions in
+        the same. I am currently working on app development and GenAI research at{' '}
         <a href="https://www.synthax.ai/" target="_blank" rel="noreferrer">
           Synthax.ai
         </a>
@@ -75,11 +75,7 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="/"
-      target="_blank"
-      rel="noreferrer">
+    <a className="email-link" href="/" target="_blank" rel="noreferrer">
       Check out my resume!
     </a>
   );

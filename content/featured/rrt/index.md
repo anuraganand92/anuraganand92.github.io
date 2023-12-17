@@ -1,15 +1,15 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
+title: 'RRT* Connect Path Planning'
 cover: './demo.jpg'
-external: 'https://github.com/anuraganand92/RRT-star-connect'
-cta: 'https://github.com/anuraganand92/RRT-star-connect'
+github: 'https://github.com/anuraganand92/RRT-star-connect'
+cta: ''
 tech:
   - Python
   - OpenCV
   - Numpy
 ---
 
-<!-- Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
+Engineered a Python solution employing the RRT\* Connect algorithm for nuanced path planning. Integrated with OpenCV for user-friendly interaction and real-time path visualization, it utilizes NumPy for optimized computations, enhancing path optimization techniques like shortening and collision avoidance.
 
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio. -->
+This amalgamation simplifies intricate path planning while ensuring computational efficiency for diverse navigational challenges.
