@@ -1,11 +1,11 @@
+// const { path } = require('animejs');
 const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
     title: 'Anurag Anand',
-    description:
-      'Welcome to my personal website! ',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    description: 'Welcome to my personal website! ',
+    siteUrl: 'https://anuraganand92.github.io', // No trailing slash allowed!
     image: '/', // Path to your image you placed in the 'static' folder
     twitterUsername: '@',
   },
