@@ -1,14 +1,13 @@
 ---
-date: '2017-12-27'
-title: 'Halcyon Theme'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+date: '2023-04'
+title: 'Shiftbank'
+github: 'https://github.com/rkhalliitkgp/bank-dashboard'
+external: 'https://bank-dashboard-vert.vercel.app/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Next.js
+  - React
+  - Django
+  - Mantine
 showInProjects: false
 ---
 
