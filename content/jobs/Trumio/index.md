@@ -7,7 +7,5 @@ range: 'December 2023 - Present'
 url: 'https://www.trumio.ai'
 ---
 
-<!-- - Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship -->
+- Crafted a specialized tree selection search engine using Next.js and Django, aimed to provide city planners with a comprehensive tool to select suitable tree species, promoting sustainability in urban environments.
+- Integrated NLP techniques and algorithms, enabling keyword-based search for diverse tree attributes like climate zone, deciduousness, flowering, size, and root systems.
