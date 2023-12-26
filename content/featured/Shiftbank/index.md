@@ -8,7 +8,7 @@ tech:
   - Next.js
   - React
   - Django
-  - Mantine
+  - Transformers
 ---
 
 Developed a neobank application, focusing on seamless payment processing and robust data analysis capabilities.

@@ -1,5 +1,5 @@
 ---
-date: '2023-12'
+date: '1'
 title: 'Software Engineering Intern'
 company: 'Trumio, Inc.'
 location: 'San Jose, CA'
