@@ -61,16 +61,15 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Anurag Anand.</h2>;
-  const three = <h3 className="big-heading">I develop apps and work on AI.</h3>;
+  const three = <h3 className="big-heading">I develop apps and research on AI</h3>;
   const four = (
     <>
       <p>
         I’m an engineering student focusing on developing softwares and working on AI solutions in
         the same. I am currently working on app development and NLP research at{' '}
-        <a href="https://www.synthax.ai/" target="_blank" rel="noreferrer">
-          Synthax.ai
+        <a href="https://www.itso.co.jp" target="_blank" rel="noreferrer">
+          ITSO Inc.
         </a>
-        .
       </p>
     </>
   );

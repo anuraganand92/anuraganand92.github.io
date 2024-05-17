@@ -1,8 +1,8 @@
 ---
-date: '2'
+date: '1'
 title: 'Software Engineering Intern'
 company: 'Synthax.ai'
-location: 'United Kingdom'
+location: 'Doncaster, United Kingdom'
 range: 'November 2023 - Present'
 url: 'https://www.synthax.ai'
 ---
