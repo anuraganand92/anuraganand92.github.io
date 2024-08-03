@@ -8,9 +8,10 @@ tech:
   - Next.js
   - React
   - Django
-  - Transformers
+  - Hugging Face
+  - OpenShift
 ---
 
-Developed a neobank application, focusing on seamless payment processing and robust data analysis capabilities.
+Developed a SaaS platform for a fintech application, built on Red Hat OpenShift, to empower financial services
 
 Employed innovative Zero Shot Classification NLP technique to enable efficient transaction categorization based solely on their descriptions, enhancing user insights and financial management.

@@ -126,8 +126,10 @@ const About = () => {
   }, []);
 
   const skills = [
+    'Flask',
     'Django',
     'Springboot',
+    'Azure',
     'React',
     'Next.js',
     'AWS',
@@ -135,9 +137,9 @@ const About = () => {
     'JavaScript',
     'TypeScript',
     'Python',
-    'C/C++',
+    'C++',
     'PyTorch',
-    'Transformers',
+    'HuggingFace',
   ];
 
   return (
@@ -150,8 +152,8 @@ const About = () => {
             <p>
               Hello! My name is Anurag Anand and I work on software products that help the people. I
               am en engineering student at <a href="https://www.iitkgp.ac.in/">IIT Kharagpur</a>
-              and I am developing healthtech solutions for{' '}
-              <a href="https://www.synthax.ai/">Synthax.ai</a>.
+              and I am developing enterprise LLM for{' '}
+              <a href="https://www.itso.co.jp/">ITSO Japan</a>.
             </p>
 
             {/* <p>

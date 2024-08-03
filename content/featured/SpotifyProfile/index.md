@@ -10,6 +10,6 @@ tech:
   - Scikit-learn
 ---
 
-Conducted Hierarchical Agglomerative Clustering on a diverse dataset of soil samples from different Indian districts. This analysis revealed unique aggregation patterns based on the percentage composition of essential elements.
+Performed Hierarchical Agglomerative Clustering on a dataset consisting of soil samples from 672 districts across India, analysing the percentage composition of essential elements to uncover aggregation patterns
 
 Utilizing clustering techniques, I visualized breakpoints and compared linkage methods, offering insights into the hierarchical relationships within the data.

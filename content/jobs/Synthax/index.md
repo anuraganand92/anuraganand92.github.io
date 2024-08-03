@@ -7,7 +7,7 @@ range: 'November 2023 - Present'
 url: 'https://www.synthax.ai'
 ---
 
-- Engineered an ICD-10-based LLM leveraging OpenAI Whisper and PyTorch with CUDA for precise speech recognition and transcription in automated medical consultations.
-- Constructed the backend using Java Spring and utilized AWS DynamoDB for scalable database management.
-- Implemented OpenAI GPT-3.5-Turbo LLM API model with suitable prompt engineering for enhanced healthcare consultation.
-- Developed the frontend using React and Next.js, ensuring a responsive interface and seamless user experience
+- Developed an LLM for automated medical consultation using OpenAI Whisper and GPT-4, fine-tuned using PyTorch and CUDA on ICD-10 medical dataset for enhanced speech recognition and accurate transcription
+- Built the backend infrastructure using Java Spring and Amazon DynamoDB and used AWS S3 for efficient storage and retrieval of audio files
+- Created a real-time audio streaming pipeline using WebSockets and MediaRecorder API, enabling seamless speech processing and transmission for speech-to-text transcription services
+- Integrated Voice Activity Detection (VAD) to reduce hallucinations and enhance batching without degrading WER

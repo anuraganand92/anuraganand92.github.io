@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/anuraganand92/anuraganand92.github.io/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  anuraganand.github.io
+  anuraganand92.github.io
 </h1>
 <p align="center">
   Originally developed as <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> so thanks to her for this amazing template.
